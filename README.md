@@ -74,5 +74,4 @@ The project report documents the available AWS configuration and application evi
 This is a hands-on learning project demonstrating production-style AWS architecture. It is not a claim of a fully production-hardened deployment.
 
 ## Author
-
-Cloud Engineering Portfolio Project
+Abhinav
